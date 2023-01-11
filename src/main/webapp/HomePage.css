@@ -1,0 +1,16 @@
+body{
+    background-image:url("https://static.sky.it/images_static/sport/rugby/2017/10/15/icardi_ok.jpg.sha.97c93a96bcaa7e81b9ffd44be362c5cb801b778c.jpg");
+    background-repeat: no;
+    background-size: cover;
+}
+
+
+div{
+	margin-left: 20% ; 
+	margin-top: 18% ;
+}
+
+h1{
+	margin-left: 37%;
+	color: red;
+}
